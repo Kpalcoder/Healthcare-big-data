@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ClinicalTrials.gov-logo.png/248px-ClinicalTrials.gov-logo.png" alt="ClinicalTrials.gov Logo">
+  <img src="<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/02ac18bd-f013-4bcb-8d87-b5c58069a3cc" />
+" alt="ClinicalTrials.gov Logo">
 </p>
 
 ## Data Extraction from ClinicalTrials.gov
