@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/02ac18bd-f013-4bcb-8d87-b5c58069a3cc" />
+  <img src="https://www.ctpop.org/sites/ctpop/files/2021-07/CT-400x400-logo.png" />
 " alt="ClinicalTrials.gov Logo">
 </p>
 
