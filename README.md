@@ -1,4 +1,4 @@
-#  clínicos
+
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ClinicalTrials.gov-logo.png/248px-ClinicalTrials.gov-logo.png" alt="ClinicalTrials.gov Logo">
