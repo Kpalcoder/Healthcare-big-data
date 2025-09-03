@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://www.ctpop.org/sites/ctpop/files/2021-07/CT-300x300-logo.png" />
+  <img src="https://www.ctpop.org/sites/ctpop/files/2021-07/CT-400x400-logo.png" />
 
 </p>
 
